@@ -1,7 +1,7 @@
 ## Hola, it's Geunchan 👋
 
 ### 👨🏻‍💻 &nbsp;About Me
-
+---
 🎓 &nbsp;I'm studying Computer Science and Statistics at [Kyungpook National University](https://www.knu.ac.kr/wbbs/wbbs/main/main.action)\
 🌱 &nbsp;I'm on track for learning more about CS.\
 💡 &nbsp;In my free time, I do 5k runnig.\
