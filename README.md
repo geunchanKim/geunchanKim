@@ -14,20 +14,19 @@
 
 ## 🛠 &nbsp;Tech Stack
 <div align:center>
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
+<img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style-for-the-badge&logo=C&logoColor=white"/> 
+<img alt="C" src="https://img.shields.io/badge/C++-00599C.svg?&style-for-the-badge&logo=C%2B%2B&logoColor=white"/>
+
 <br>
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
+
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/AVS1508">
+
+<div align:center>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=geunchanKim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+
+</div>
