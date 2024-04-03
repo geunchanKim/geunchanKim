@@ -30,7 +30,7 @@
 <div align=center>
   
   ### ⚙️ &nbsp;GitHub Analytics
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=geunchanKim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=geunchanKim&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=geunchanKim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=geunchanKim&layout=compact&langs_count=8&theme=algolia"/>
 
 </div>
